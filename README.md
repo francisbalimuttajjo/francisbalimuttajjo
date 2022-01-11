@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @francis
 - 👀 I’m passionate about programming 
-- 🌱 I’m currently learning node.js and react
-- 💞️ I’m looking to collaborate on node.js  and react projects
+- 🌱 I’m comfortable with react and node.js
 - 📫 How to reach me @fbalimuttajjo@gmail.com  
 
 
