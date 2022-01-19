@@ -2,6 +2,7 @@
 - 👀 I’m passionate about programming 
 - 🌱 I’m comfortable with react and node.js
 - 📫 How to reach me @fbalimuttajjo@gmail.com  
+- check me out at https://francisbalimuttajjo.netlify.app
 
 
 <!---
