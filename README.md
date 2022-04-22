@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francis
-- 👀 I’m passionate about programming 
-- 🌱 I’m comfortable with react and node.js
+- 👀 I’m passionate about programming both front and backend
+- 🌱 I’m comfortable with javascript 
 - 📫 How to reach me @fbalimuttajjo@gmail.com  
 - check me out at https://francisbalimuttajjo.netlify.app
 
