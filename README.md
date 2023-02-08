@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francis
 - 👀 I’m passionate about programming writing  both front and backend programs
-- 🌱 I use  javascript && solidity languages
+- 🌱 I use  javascript && haskell languages
 - 📫 How to reach me @fbalimuttajjo@gmail.com  
 - check me out at https://francisbalimuttajjo.netlify.app
 
